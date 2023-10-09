@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/sanluis"
+        android:layout_width="match_parent"
+        android:layout_height="327dp" />
+
+    <GridView
+        android:id="@+id/neuf"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/sanluis"
+        android:layout_marginTop="40dp"
+        android:numColumns="3"
+        android:verticalSpacing="24dp"></GridView>
+</RelativeLayout>

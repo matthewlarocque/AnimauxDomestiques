@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item
+        android:id="@+id/barra_search"
+        android:title="@string/cerca"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always"
+        android:icon="@drawable/rechercher" /> -->
+    <item
+        android:id="@+id/barra_add"
+        android:icon="@drawable/anadir"
+        android:title="@string/piu"
+        app:showAsAction="always" />
+</menu>

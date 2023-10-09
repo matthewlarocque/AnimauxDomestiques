@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sentido_frag"
+        android:icon="@drawable/ubicacion"
+        android:title="@string/actualizacion" />
+    <item
+        android:id="@+id/lacasa_frag"
+        android:icon="@drawable/maison"
+        android:title="@string/homepage" />
+    <item
+        android:id="@+id/menu_camara"
+        android:title="" />
+    <item
+        android:id="@+id/mensaje_frag"
+        android:icon="@drawable/lemsg"
+        android:title="@string/messages" />
+    <item
+        android:id="@+id/mis_frag"
+        android:icon="@drawable/lyingdog"
+        android:title="@string/navmy" />
+</menu>

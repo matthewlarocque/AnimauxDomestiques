@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Maison des Animaux</string>
+    <string name="twice_press">Appuyez à nouveau sur la touche de retour pour quitter l\'application</string>
+    <string name="txt_login">Connexion</string>
+    <string name="txt_register">Inscription pour les nouveaux utilisateurs</string>
+    <string name="skip_bv">Passer</string>
+
+    <string name="login">Connexion</string>
+    <string name="login_input_username_hint">Nom d\'utilisateur</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="login_hold_hint">Connexion automatique</string>
+    <string name="login_register_hint">Inscription</string>
+    <string name="login_other_hint">Autres méthodes de connexion</string>
+    <string name="register_input_username_hint">Nom d\'utilisateur</string>
+    <string name="register_username_hint">Nom d\'utilisateur</string>
+    <string name="register_sms_wait_hint">Ne soyez pas impatient, prenez une pause...</string>
+    <string name="already_registered">Ce nom d\'utilisateur est déjà enregistré, veuillez en choisir un autre !</string>
+    <string name="register_success">Inscription réussie, retournez à la page de connexion pour vous connecter</string>
+    <string name="wait">Veuillez patienter</string>
+    <string name="logsuc">Connexion réussie !</string>
+    <string name="logfail">Échec de la connexion ! Veuillez vérifier votre nom d\'utilisateur ou votre mot de passe</string>
+    <string name="logfail_preload">Échec de la connexion ! Les informations de connexion préalablement enregistrées sont peut-être incorrectes. Veuillez revenir à la page de connexion et les saisir à nouveau.</string>
+
+    <string name="loading_image">Préparation de l\'image en cours...</string>
+    <string name="register_done_hint">Terminé</string>
+    <string name="man_hint">Homme</string>
+    <string name="female_hint">Femme</string>
+    <string name="retrieve_pwd_step_hint">Étape suivante</string>
+    <string name="reset_pwd_hint">Veuillez entrer un nouveau mot de passe d\'au moins six caractères</string>
+    <string name="register_pwd_hint">Veuillez entrer un mot de passe d\'au moins six caractères</string>
+    <string name="reset_pwd_submit">Confirmer</string>
+    <string name="message_pwd_error">Mot de passe incorrect</string>
+    <string name="message_username_null">Nom d\'utilisateur non saisi !!!</string>
+
+    <string name="homepage">Accueil</string>
+    <string name="actualizacion">Découvrir</string>
+    <string name="messages">Messages</string>
+    <string name="navmy">Mon profil</string>
+    <string name="cerca">Rechercher</string>
+    <string name="piu">Plus</string>
+
+    <string name="comment_title">Avis des utilisateurs</string>
+    <string name="comment_text">Partagez vos expériences sur l\'élevage des animaux domestiques et vos connaissances au quotidien</string>
+    <string name="adopt_title">Demandes d\'adoption</string>
+    <string name="adopt_text">Il y a %d animaux en attente d\'adoption ici</string>
+    <string name="cumbre_title">Cercle des activités</string>
+    <string name="cumbre_text">Rencontrez des amoureux des animaux de votre ville, échangez des idées et organisez des rencontres avec des animaux mignons...</string>
+    <string name="advice_title">Conseils vétérinaires</string>
+    <string name="advice_text">Les vétérinaires professionnels vous enseignent comment bien s\'occuper de vos animaux de compagnie</string>
+
+    <string name="txt_hospital">Hôpital</string>
+    <string name="txt_asistancia">Assistant vétérinaire</string>
+    <string name="txt_drugstore">Pharmacie</string>
+    <string name="txt_groupbuy">Achats groupés</string>
+    <string name="txt_shopcenter">Centre commercial</string>
+    <string name="txt_ropa">Vêtements pour animaux de compagnie</string>
+    <string name="txt_coupon">Coupon de réduction</string>
+    <string name="txt_carrito">Panier</string>
+    <string name="txt_amigos">Amis</string>
+
+    <string name="txt_nickname">Pseudo : %s</string>
+    <string name="txt_usuario">Compte : %d</string>
+    <string name="txt_qrcode">Mon code QR</string>
+    <string name="txt_moneda">Mon portefeuille</string>
+    <string name="txt_order">Mes commandes</string>
+    <string name="txt_recvaddr">Adresse de livraison</string>
+    <string name="txt_settings">Paramètres</string>
+    <string name="txt_agregarme">Scannez le code QR pour m\'ajouter en ami</string>
+    <string name="no_msg">Aucun nouveau message</string>
+    <string name="txt_changepwd">Changer le mot de passe</string>
+    <string name="txt_lngswitch">Changer la langue</string>
+    <string name="txt_changenick">Changer le pseudo</string>
+    <string name="txt_genero">Genre</string>
+    <string name="txt_age">Âge</string>
+    <string name="txt_clearcache">Effacer le cache</string>
+    <string name="title_del">Supprimer la confirmation</string>
+    <string name="confirm_del">Êtes-vous sûr de vouloir supprimer toutes les données en cache de cette application ?</string>
+    <string name="suc_del">Suppression réussie</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_del">Supprimer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="txt_general">Paramètres généraux</string>
+    <string name="txt_advanced">Paramètres avancés</string>
+    <string name="keyword">Connaissances sur l\'élevage des chats et des chiens</string>
+    <string name="txt_logout">Déconnexion</string>
+    <string name="cfm_logout">Êtes-vous sûr de vouloir vous déconnecter ?</string>
+</resources>

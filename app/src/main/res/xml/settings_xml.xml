@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="prefCategoryOne"
+        android:title="@string/txt_general">
+        <EditTextPreference
+            android:key="prefCambiaNombre"
+            android:title="@string/txt_changenick"
+            android:summary="Tapez pour mettre à jour"/>
+        <EditTextPreference
+            android:key="prefCambiaAno"
+            android:title="@string/txt_age"
+            android:summary="Peut être utilisé comme un élément de conf"/>
+        <SwitchPreference
+            android:key="prefGender"
+            android:title="@string/txt_genero"
+            android:switchTextOn="@string/man_hint"
+            android:switchTextOff="@string/female_hint"
+            android:summaryOn="@string/man_hint"
+            android:summaryOff="@string/female_hint" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="prefCategoryTwo"
+        android:title="@string/txt_advanced" >
+        <ListPreference
+            android:key="prefLanguage"
+            android:title="@string/txt_lngswitch"
+            android:entries="@array/lng_txt_entries"
+            android:entryValues="@array/lng_entries"
+            android:defaultValue="fr"
+            android:dialogTitle="@string/txt_lngswitch" />
+        <Preference
+            android:key="prefClCache"
+            android:title="@string/txt_clearcache" />
+        <Preference
+            android:key="prefLogout"
+            android:title="@string/txt_logout" />
+    </PreferenceCategory>
+</PreferenceScreen>
